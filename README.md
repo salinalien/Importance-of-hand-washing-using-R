@@ -12,3 +12,10 @@ monthly_deaths.csv: This CSV file contains monthly data from 'Clinic 1' of the h
 
 ## Analysis files
 - notebook.ipynb: This Jupyter Notebook file contains the output of the R analysis script.
+
+## Conclusion
+Based on the reanalysis of Dr. Ignaz Semmelweis's data, the conclusion drawn is likely to reinforce the significance of handwashing in reducing mortality rates among women giving birth.
+
+Results show:
+- a decrease in the proportion of deaths after the introduction of handwashing on June 1st, 1847.
+- a significant difference in the mean proportion of deaths before and after the implementation of handwashing
