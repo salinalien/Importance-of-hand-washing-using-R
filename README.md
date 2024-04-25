@@ -9,3 +9,5 @@ Analysis was performed in R using various libraries such as tidyverse for data m
 - monthly_deaths.csv: This CSV file contains monthly data from 'Clinic 1' of the hospital, where most deaths occurred.
 -- Columns: date (Date in YYYY-MM-DD format), births (Number of births), deaths (Number of deaths).
 
+## Analysis files
+- notebook.ipynb: This Jupyter Notebook file contains the output of the R analysis script.
